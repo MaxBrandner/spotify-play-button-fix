@@ -1,0 +1,7 @@
+# Contains Spotify login cookies - never commit
+test-profile/
+.venv/
+.cache/
+__pycache__/
+prototypes/
+statusDevInClaudeBrowser/
