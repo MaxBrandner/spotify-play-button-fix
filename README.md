@@ -1,5 +1,8 @@
 # Spotify Web: Detach play buttons from the old session
 
+> [!CAUTION]
+> **Do not switch this repository to public as it is.** The author and committer fields of its commits contain a private e-mail address. Remove it from the history or publish a fresh copy first.
+
 A userscript for the Spotify web player. If you start something with a play button and Autoplay later takes over, that button stays bound to the old playback: it shows ⏸ and pauses an unrelated song when clicked. With this script, it starts its own music again instead.
 
 ## Behaviour
