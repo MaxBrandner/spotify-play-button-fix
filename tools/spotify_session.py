@@ -7,7 +7,7 @@ from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
 
 ROOT = Path(__file__).resolve().parent.parent
-USERSCRIPT = ROOT / "spotify-player.user.js"
+USERSCRIPT = ROOT / "spotify-play-button-fix.user.js"
 FAILURE_SCREENSHOT = ROOT / ".cache" / "last_failure.png"
 
 ROW = '[data-testid="tracklist-row"]'
