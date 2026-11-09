@@ -4,7 +4,6 @@ test-profile/
 .cache/
 __pycache__/
 prototypes/
-statusDevInClaudeBrowser/
 
 # Stays local, not for the public repository
 ad-disable/

@@ -2,7 +2,7 @@
 
 A userscript for the Spotify web player. Press `/` anywhere to jump to the search field and start typing, without reaching for the mouse. Press `Esc` to leave the field again.
 
-<!-- Add the Greasy Fork install link here after publishing. -->
+**[Install from Greasy Fork](https://greasyfork.org/en/scripts/604554-spotify-web-press-to-search)**
 
 ## Behaviour
 
