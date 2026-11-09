@@ -2,6 +2,8 @@
 
 A userscript for the Spotify web player. If you start something with a play button and Autoplay later takes over, that button stays bound to the old playback: it shows ⏸ and pauses an unrelated song when clicked. With this script, it starts its own music again instead.
 
+**[Install from Greasy Fork](https://greasyfork.org/en/scripts/604462-spotify-web-detach-play-buttons-from-the-old-session)**
+
 ## Behaviour
 
 The script looks at every play button outside the player bar and checks whether the current song still belongs to what the button stands for:
